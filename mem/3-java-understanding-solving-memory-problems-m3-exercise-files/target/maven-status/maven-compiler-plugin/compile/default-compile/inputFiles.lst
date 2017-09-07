@@ -1,0 +1,11 @@
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/resources/PostingCache.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/KlassifiedApplication.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/jdbi/AdvertiserDAO.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/KlassifiedConfiguration.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/api/Posting.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/jdbi/Advertiser.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/MemoryLeakRunner.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/jdbi/AdvertDAO.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/jdbi/Advert.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/resources/PostingResource.java
+/home/mbovalocal/_bova/tech.java.core3/mem/3-java-understanding-solving-memory-problems-m3-exercise-files/src/main/java/com/monotonic/klassified/resources/PopulateResource.java

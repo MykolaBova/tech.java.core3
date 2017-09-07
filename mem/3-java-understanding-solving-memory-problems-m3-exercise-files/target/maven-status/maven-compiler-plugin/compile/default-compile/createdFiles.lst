@@ -1,0 +1,14 @@
+com/monotonic/klassified/resources/PostingCache$1.class
+com/monotonic/klassified/jdbi/Advertiser.class
+com/monotonic/klassified/api/Posting.class
+com/monotonic/klassified/KlassifiedApplication$1.class
+com/monotonic/klassified/jdbi/AdvertiserDAO.class
+com/monotonic/klassified/jdbi/AdvertDAO.class
+com/monotonic/klassified/resources/PopulateResource.class
+com/monotonic/klassified/resources/PostingResource.class
+com/monotonic/klassified/resources/PostingCache.class
+com/monotonic/klassified/KlassifiedConfiguration.class
+com/monotonic/klassified/jdbi/Advert.class
+com/monotonic/klassified/resources/PostingCache$PostingId.class
+MemoryLeakRunner.class
+com/monotonic/klassified/KlassifiedApplication.class

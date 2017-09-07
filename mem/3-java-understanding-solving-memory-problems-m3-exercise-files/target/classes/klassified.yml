@@ -1,0 +1,13 @@
+
+database:
+  driverClass: org.h2.Driver
+  user: sa
+  password: sa
+  url: jdbc:h2:./target/klassified
+  properties:
+    hibernate.hbm2ddl.auto: create
+
+server:
+  applicationConnectors:
+    - type: http
+      port: 9000

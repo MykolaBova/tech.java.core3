@@ -1,0 +1,37 @@
+Sorting Algorithms in C++: https://www.udemy.com/sorting-algorithms-in-c/?couponCode=HBALAZS_10
+
+Numerical methods in Java: https://www.udemy.com/numerical-methods-in-java/?couponCode=NUMMETHOD_10
+
+Java EE with Maven and Vaadin and Spring Boot: https://www.udemy.com/java-ee-with-vaadin-spring-boot-and-maven/?couponCode=JAVEE_VAADIN_5
+
+Neural Networks in Java: https://www.udemy.com/neural-networks-from-scratch-in-java/?couponCode=neuralnetworkinjava10
+
+Algorithmic Problems in Python: https://www.udemy.com/algorithmic-problems-in-python/?couponCode=algprobpy10
+
+Algorithmic Problems in Java: https://www.udemy.com/algorithmic-problems-in-java/?couponCode=ALGPROBJAVA10
+
+Face Detection in Java: https://www.udemy.com/face-detection-in-java/?couponCode=FACEDET_10
+
+Introduction to SQL: https://www.udemy.com/introduction-to-sql23/?couponCode=SQLINTRO_10
+
+Introduction to Collections & Generics: https://www.udemy.com/introduction-to-generics-in-java/?couponCode=genericsjava10
+
+Machine Learning in R: https://www.udemy.com/machine-learning-in-r/?couponCode=MLR_10
+
+Machine Learning & Face Detection in Python: https://www.udemy.com/introduction-to-machine-learning-in-python/?couponCode=itmlfdipy10
+
+Artificial Intelligence in Java: https://www.udemy.com/artificial-intelligence-games-in-java/?couponCode=ARTIFJ_10
+
+Design Patterns in Java: https://www.udemy.com/basics-of-software-architecture-design-in-java/?couponCode=SOLID_10
+
+Multithreading and Parallel Computing in Java: https://www.udemy.com/multithreading-and-parallel-computing-in-java/?couponCode=MULTI_PARALLEL_10?
+
+Data Structures in Python: https://www.udemy.com/algorithms-and-data-structures-in-python/?couponCode=PYTHONALGO10
+
+Data Structures in Java II: https://www.udemy.com/algorithms-and-data-structures-in-java-part-ii/?couponCode=javadatapartII10
+
+Data Structures in Java I: https://www.udemy.com/algorithms-and-data-structures/?couponCode=ALGJAVADATA10
+
+Advanced Algorithms in Java: https://www.udemy.com/advanced-algorithms-in-java/?couponCode=ADVALGOJAVA10
+
+Java SE Desktop Application with Maven and JPA: https://www.udemy.com/java-se-desktop-application-with-swing-jpa-and-maven/?couponCode=javasemvnjpa10
